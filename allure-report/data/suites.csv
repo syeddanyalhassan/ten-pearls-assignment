@@ -1,4 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Dec 04 23:36:12 GST 2022","Sun Dec 04 23:36:12 GST 2022","81","","my first test suite","","","","checks body of the json",""
-"passed","Sun Dec 04 23:36:12 GST 2022","Sun Dec 04 23:36:12 GST 2022","102","","my first test suite","","","","checks email address",""
-"passed","Sun Dec 04 23:36:12 GST 2022","Sun Dec 04 23:36:12 GST 2022","229","","my first test suite","","","","Check data",""
+"passed","Fri Jan 13 23:16:11 PKT 2023","Fri Jan 13 23:16:14 PKT 2023","3353","","my second test","","","","check base url",""
+"skipped","Fri Jan 13 23:16:11 PKT 2023","Fri Jan 13 23:16:11 PKT 2023","1","","my first test suite","","","","checks body of the json",""
+"skipped","Fri Jan 13 23:16:11 PKT 2023","Fri Jan 13 23:16:11 PKT 2023","1","","my first test suite","","","","checks email address",""
+"skipped","Fri Jan 13 23:16:11 PKT 2023","Fri Jan 13 23:16:11 PKT 2023","7","","my first test suite","","","","Check data",""
